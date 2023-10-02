@@ -1,0 +1,30 @@
+
+/* *********************************
+ Subject: WST 165 (Fall 2023)
+ Author: Edilvan E. Falcon
+ Instructor: David Kazaryan
+ Date Created: 2023.09.30
+ Description: Assignment No. 3
+ Homepage for landing page
+ ******************************** */
+
+
+ html {
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%}
+body {
+    margin: 0;
+    background-color: #ecd100;
+}
+
+.main-content {
+    width: 80%; margin: auto; margin-top: 30px; background-color: #fff; border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;
+}
+
+
+ .img-home { 
+    padding: 2px; border: solid 2px #ecd100 ; margin: 10px;
+    border-radius: 10px;
+    background-color: #ecd100;
+ }
